@@ -12,5 +12,4 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * @author agsjohn
  */
 public interface GameRepository extends JpaRepository<Game, Long>{
-    
 }
